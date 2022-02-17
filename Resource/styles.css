@@ -1,0 +1,113 @@
+.text{
+    margin-bottom: 40px;
+}
+
+/*Biografia*/
+.imgas{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.textulbiografia{
+    font-weight: bold;
+}
+
+/*Tabela obras e prémios*/
+.table-wrapper .lead4{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    
+}
+
+.table-wrapper table{
+    width: 100%;
+}
+.table-wrapper table th{
+    margin: 10px;
+    background: #808184;
+    font-family: "latobold";
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    padding: 7px 15px;
+    border: 1.5px solid #fff;
+    vertical-align: middle;
+    line-height: normal;
+}
+.table-wrapper table tbody tr td{
+    font-family: "latoregular";
+    font-size: 14px;    
+    line-height: normal;
+    color: #808184;
+    background: #E6E7E8;
+    padding: 13px 15px;
+    border: 1.5px solid #fff;
+    text-align: center;
+}
+.table-wrapper table tbody tr td a,
+.table-wrapper table tbody tr td a:hover {
+    text-decoration: none;
+    color: #2980B9;
+}
+.table-wrapper table tbody tr td:first-child{
+    background: #F1F1F2;
+    text-align: left;
+}
+.table-wrapper table tbody tr:first-child td{    
+    background: #E6E7E8;    
+    color: #2A2A2A;
+    text-align: center;
+    font-family: "latobold";
+    font-size: 16px;
+}
+.table-wrapper table tbody tr:first-child td:first-child,
+.table-wrapper table th:first-child{
+    text-align: left;
+}
+
+/*Sobre*/
+.aboutdev{
+    text-align: center;
+    padding-top: 10px;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{
+  display: none;
+}
+
+.buttonsourcecodedownload{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+/*Footer*/
+
+.footer{
+    margin-top: 40px;
+}
+
+.footer a {
+    color: #fff;
+  }
+   b
+  .footer a:visited{
+    color: #fff;
+  }
+  
+  .footer .icon{
+    text-align: center;
+  }
+  
+  .footer .icon .ico{
+    padding: 10px
+  }
+  
+  .footer h3{
+    margin-top: 10px;
+    font-size: 14pt;
+    text-align: center;
+    color: #fff;
+  }
